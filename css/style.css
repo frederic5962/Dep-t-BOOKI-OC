@@ -395,9 +395,9 @@ footer {
   color: var(--main-color);
 }
 
-/* Le code ci-dessous correspond à la version responsive uniquement */
 
-/****** Media queries ***********/
+
+/****** Media queries **********  responsive*/
 /* Medium devices (tablets, less/equal than 1024px) */
 @media (max-width: 1024px) {
   /****** General ***********/
@@ -578,7 +578,7 @@ footer {
       margin-bottom: 15px;
   }
 
-  .activites-cards {
+  .activity-cards {
       flex-direction: column;
       gap: 0;
   }
